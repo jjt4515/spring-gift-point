@@ -8,11 +8,11 @@
 <h1>목차</h1>
 <ul>
   <li>6주차: <a href="#spring-gift-point">spring-gift-point</a></li>
-  <li>5주차: <a href="#spring-gift-order">spring-gift-order</a></li>
-  <li>4주차: <a href="#spring-gift-enhancement">spring-gift-enhancement</a></li>
-  <li>3주차: <a href="#spring-gift-jpa">spring-gift-jpa</a></li>
-  <li>2주차: <a href="#spring-gift-wishlist">spring-gift-wishlist</a></li>
-  <li>1주차: <a href="#spring-gift-product">spring-gift-product</li>
+  <li>5주차: <a href="#spring-gift-order">spring-gift-order</a> / <a href="https://github.com/jjt4515/spring-gift-order">작업 GitHub</a></li>
+  <li>4주차: <a href="#spring-gift-enhancement">spring-gift-enhancement</a> / <a href="https://github.com/jjt4515/spring-gift-enhancement">작업 GitHub</a></li>
+  <li>3주차: <a href="#spring-gift-jpa">spring-gift-jpa</a> / <a href="https://github.com/jjt4515/spring-gift-jpa">작업 GitHub</a></li>
+  <li>2주차: <a href="#spring-gift-wishlist">spring-gift-wishlist</a> / <a href="https://github.com/jjt4515/spring-gift-wishlist">작업 GitHub</a></li>
+  <li>1주차: <a href="#spring-gift-product">spring-gift-product</a> / <a href="https://github.com/jjt4515/spring-gift-product">작업 GitHub</a></li>
 </ul>
 
 <details open id="spring-gift-point">
